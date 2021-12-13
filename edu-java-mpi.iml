@@ -10,11 +10,11 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="file://$USER_HOME$/Desktop/mpj-v0_44/lib" />
+          <root url="file:///usr/share/java/mpj-v0_44/lib" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
-        <jarDirectory url="file://$USER_HOME$/Desktop/mpj-v0_44/lib" recursive="false" />
+        <jarDirectory url="file:///usr/share/java/mpj-v0_44/lib" recursive="false" />
       </library>
     </orderEntry>
   </component>
